@@ -22,8 +22,9 @@ knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
 1. Take a look at focal variables 
 2. Checking covariate imbalance (pre‑matching).
 3. Conduct a matching analysis (Mahalanobis matching)
-4. Estimate regression models for each outcome using the matched sample
-5. Compare to alternative matching method (Propensity score matching)
+4. Evaluate balance after matching
+5. Estimate regression models for each outcome using the matched sample
+6. Practice fixed effects estimation
 
 ------------------------------------------------------------------------
 
